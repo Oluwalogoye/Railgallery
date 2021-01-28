@@ -9,7 +9,3 @@ I decided to use my knowledge of the HTML Canvas element and RESTful APIs to bui
 Technologies Used: 
 - Angular 8 (Front-end)
 - NodeJS, RESTful API, MongoDB (Back-end)
-
-
-Walkthrough: 
-https://youtu.be/d9YZB7WuNOI
